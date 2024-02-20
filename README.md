@@ -1,5 +1,22 @@
 # -这是一个专注于展示高端电动汽车的响应式网站。通过精美的界面设计和用户友好的体验，您可以轻松浏览和选择最适合您的豪华汽车。
 
+<h2>About the project</h2>
+
+<p>This is a responsive website built with HTML and CSS. This
+website features a modern and intuitive design, with easy-to-use navigation and a
+simple shopping experience that puts the focus on the products.</p>
+
+
+
+👉 Live Demo: <a href='https://fully-responsive-car-website-yxmv.vercel.app/'>Live Demo</a>
+
+<h3>Build with:</h3>
+
+» CSS <br>
+» JavaScript<br>
+» HTML5
+
+
 ## 特点
 
 - 响应式设计，兼容多种设备和屏幕尺寸
